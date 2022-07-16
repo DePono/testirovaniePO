@@ -3,10 +3,6 @@ import math
 CELCIUS = 36.6
 FAHRENHEIT = 1.8
 KELVIN = -273.15
-#Сторона квадрата
-SIDE_OF_THE_SQUARE = 100
-#Радиус круга
-CIRCLE_RADIUS = 100
 #Очки за игру
 WINSCORE = 3
 LOSESCORE = 0
