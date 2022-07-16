@@ -40,7 +40,7 @@ def team_play(score):
     else:
         print('Проиграла')
 
-#Функция для определения вместительности круга и квадрата
+#Функция для определения площади круга и квадрата
 def square_of_figures(r,a):
     s_of_square = a**2
     s_of_circle = math.pi*(r**2)
